@@ -1,0 +1,24 @@
+@import "@pxlkit/ui-kit/styles.css";
+
+:root {
+  font-family: "Pixelify Sans Variable", sans-serif;
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #02040a;
+  color: #e7eaf1;
+}
