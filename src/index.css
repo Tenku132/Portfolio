@@ -19,6 +19,6 @@ body {
   margin: 0;
   min-width: 320px;
   min-height: 100vh;
-  background-color: #02040a;
-  color: #e7eaf1;
+  background-color: var(--retro-bg);
+  color: var(--retro-text);
 }
